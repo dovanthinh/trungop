@@ -1,5 +1,5 @@
 Package: trungop
-Version: 1.22
+Version: 1.23
 Architecture: all
 Maintainer: Do Van Thinh <thinhdv90@gmail.com>
 Build-Depends: debhelper (>= 8.0.0), config-package-dev (>= 5.0)

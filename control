@@ -1,0 +1,10 @@
+Package: trungop
+Version: 1.22
+Architecture: all
+Maintainer: Do Van Thinh <thinhdv90@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), config-package-dev (>= 5.0)
+Section: jessie/admin/prod
+Priority: standard
+Description: trungop.cf 's configuration
+ Nginx configuration 
+
